@@ -2,12 +2,21 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
   <suite name="Default suite" duration-ms="23" started-at="2021-12-09T11:23:15Z" finished-at="2021-12-09T11:23:15Z">
     <groups>
     </groups>
     <test name="Default test" duration-ms="23" started-at="2021-12-09T11:23:15Z" finished-at="2021-12-09T11:23:15Z">
       <class name="com.crm.gitpractice.BasicScriptsGit.Practicecodecommitpush">
         <test-method status="PASS" signature="practicecodecommitpush()[pri:0, instance:com.crm.gitpractice.BasicScriptsGit.Practicecodecommitpush@3c756e4d]" name="practicecodecommitpush" duration-ms="8" started-at="2021-12-09T16:53:15Z" finished-at="2021-12-09T16:53:15Z">
+=======
+  <suite name="Default suite" duration-ms="30" started-at="2021-12-09T11:01:32Z" finished-at="2021-12-09T11:01:32Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="30" started-at="2021-12-09T11:01:32Z" finished-at="2021-12-09T11:01:32Z">
+      <class name="com.crm.gitpractice.BasicScriptsGit.Practicecodecommitpush">
+        <test-method status="PASS" signature="practicecodecommitpush()[pri:0, instance:com.crm.gitpractice.BasicScriptsGit.Practicecodecommitpush@3c756e4d]" name="practicecodecommitpush" duration-ms="16" started-at="2021-12-09T16:31:32Z" finished-at="2021-12-09T16:31:32Z">
+>>>>>>> branch 'master' of https://github.com/Monica-Runnish/SDET-26.git
           <reporter-output>
           </reporter-output>
         </test-method> <!-- practicecodecommitpush -->

@@ -2,10 +2,10 @@ package com.crm.gitpractice.BasicScriptsGit;
 
 import org.testng.annotations.Test;
 
-public class practicecodecommit_push {
+public class Practicecodecommitpush {
 	
 	@Test
-	public void practicecodecommit_push() {
+	public void practicecodecommitpush() {
 		
 		System.out.println("code for user-1 , script-1");
 		
